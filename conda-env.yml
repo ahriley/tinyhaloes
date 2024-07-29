@@ -1,0 +1,22 @@
+name: tinyhaloes
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - numpy<2.0.0
+  - matplotlib
+  - scipy
+  - pandas
+  - astropy
+  # - seaborn
+  # - emcee
+  - jupyter
+  - jupyterlab
+  # - gsl
+  - h5py
+  # - gcc
+  # - scikit-learn
+  - mpi4py
